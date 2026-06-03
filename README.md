@@ -1,5 +1,5 @@
 <img src="banner.png" alt="Banner" width="100%">
-<h1 align="center">Hi 👋, I'm Abhinav Chanadra A R</h1>
+<h1 align="center">Hi 👋, I'm Abhinav </h1>
 <h3 align="center">A passionate Sofftware developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/bxe8Qsx3UusAAAAC/cat.gif">
