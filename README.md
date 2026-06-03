@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Chandra</h1>
 <h3 align="center">A passionate Sofftware developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB1aWxxNGk5YTR0MHBudGlyOHZ5NHQ5ZWdtbGxjZ3NjcDMxazRpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V1cWgzaTg4ODBmdG83bGxvZnA5aXp4a3h5MTJ2YjF6azBteXJsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-chandra-ar&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-chandra-ar" /> </p>
 
