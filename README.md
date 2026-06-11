@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-commerce app**
 
-- 🌱 I’m currently learning **Mean Stack**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **abhinavcanichandran@gmail.com**
 
