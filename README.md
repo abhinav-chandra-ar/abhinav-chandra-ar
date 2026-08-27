@@ -109,12 +109,3 @@
 
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-chandra-ar&layout=compact&theme=tokyonight" width="39%"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-chandra-ar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-chandra-ar&" alt="abhinav-chandra-ar" />
-</p>
